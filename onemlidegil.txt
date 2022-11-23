@@ -7,8 +7,12 @@ EROL BRAVBBV
 STACH UYGULAMASI!
 @#!@@@@@@@@@###############$   ?????????????????????????????
 githunb 3.gun ilk deneme
+<<<<<<< HEAD
 MAster BRANCH
 YENI EKELNDI 
 githunb 3.gun ilk deneme
 MAster BRANCH
 YENI EKELNDI 
+githunb 3.gun ikinci deneme
+githunb 3.gun ucuncu deneme
+
